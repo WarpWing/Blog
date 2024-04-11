@@ -1,5 +1,5 @@
 ---
-title: Introduction (Hello World!)
+title: Introduction
 published: 2024-04-11
 description: Who am I?
 tags: [Introduction, Welcome]
