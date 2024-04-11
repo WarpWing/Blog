@@ -36,20 +36,15 @@ export const profileConfig: ProfileConfig = {
   bio: '19, he/him, DevSecOps @ SkyCrypt',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
-    },
-    {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://steamcommunity.com/id/WarpWing/',
-    },
-    {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/WarpWing',
     },
+    {
+      name: 'LinkedIn',
+      icon: 'fa6-brands:linkedin',
+      url: 'https://www.linkedin.com/in/ty-chermsirivatana/',
+    }
   ],
 }
 
