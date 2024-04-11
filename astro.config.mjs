@@ -24,7 +24,7 @@ const oklchToHex = (str) => {
 // https://astro.build/config
 export default defineConfig({
   site: "https://blog.warpwing.cloud/",
-  base: "blog",
+  base: "/blog",
   integrations: [
     tailwind(),
     swup({
