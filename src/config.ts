@@ -44,6 +44,11 @@ export const profileConfig: ProfileConfig = {
       name: 'LinkedIn',
       icon: 'fa6-brands:linkedin',
       url: 'https://www.linkedin.com/in/ty-chermsirivatana/',
+    },
+    {
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://discord.com/users/232239924462616578',
     }
   ],
 }
