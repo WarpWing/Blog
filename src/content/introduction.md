@@ -1,6 +1,6 @@
 ---
 title: Introduction (Hello World!)
-published: 2024-4-11
+published: 2024-04-11
 tags: [Introduction, Welcome]
 category: Personal
 draft: false
