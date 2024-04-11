@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'WarpWing',
+  title: 'Ty Chermsirivatana',
   subtitle: 'Blog',
   lang: 'en',
   themeHue: 250,
