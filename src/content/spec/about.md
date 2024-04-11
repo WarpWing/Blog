@@ -11,7 +11,6 @@ I am a 19-year-old male, based in New York, presently pursuing a major in Law an
 
 ## Organizations I'm currently affilated with.
 - [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) - (DevSecOps Consultant)
-## Check out my [blog](https://blog.warpwing.cloud/) where I post my thoughts and experiences!
 ## Websites I currently practice on 
 - [Leetcode](https://leetcode.com/tycherms/)
 - [HackTheBox](https://app.hackthebox.com/users/439610)
