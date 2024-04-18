@@ -17,7 +17,7 @@ I'm not sure what my first topic is going to be about. It's likely going to be a
 
 ![image](https://github.com/WarpWing/blog/assets/28925758/64711169-8215-40d4-9135-3b67a5581e3c)
 
-Full transparency, I will say that those numbers may be inaccurate because Cloudflare's Web Analytics only retain up to 30 days. SkyCrypt often averages 6-8 TB a month, 7-8 TB from 2020-2021. Regardless, if you find my blogs interesting or the topics excited, feel free to stick around! 
+Full transparency, I will say that those numbers may be inaccurate because Cloudflare's Web Analytics only retain up to 30 days (see above image). SkyCrypt often averages 6-8 TB a month, 7-8 TB at it's apex from 2020-2021. Regardless, if you find my blogs interesting or the topics exciting, feel free to stick around! 
 
 I also want to give a quick shoutout to [saicaca](https://github.com/saicaca/fuwari) who I don't know personally but has this kickass blog template that was easy to setup!
 
