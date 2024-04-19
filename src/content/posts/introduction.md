@@ -11,7 +11,7 @@ draft: false
 
 My name is Ty "WarpWing" Chermsirivatana. A little bit about me, I am a 19-year-old male, based in New York, presently pursuing a major in Law and Policy with a minor in Computer Science as a Freshman at Dickinson College. 
 As you can tell, I'm starting a blog! I'm mostly going to talk about my adventures in DevOps, Server Infrastructure, Artifical Intelligence, Cybersecurity and pretty much anything else I find interesting!
-In my current capacity, I serve as the DevSecOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a DevOps Engineer and FOSS Developer for the [SkyStats](https://github.com/skystatsdev) project and Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project, respectively.
+In my current capacity, I serve as the DevSecOps Consultant for [SkyCrypt](https://github.com/SkyCryptWebsite/SkyCrypt) and contribute as a FOSS Developer for Dickinson College's [FarmData2](https://github.com/FarmData2/FarmData2) Project.
 
 I'm not sure what my first topic is going to be about. It's likely going to be about my time at SkyCrypt and the challenges that come with developing and scaling an application that's recieved 10M+ total users, handled billions of requests and over 350TB (factoring in site + API traffic) of outbound data over 4 years of uptime. 
 
